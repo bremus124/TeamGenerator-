@@ -15,5 +15,5 @@
 ## Deployment
 
 - To deploy this project run:
-  - Video Link: https://bremus124.github.io/Scheduler/
+  - Video Link: https://drive.google.com/file/d/1XTbGGIRo1xhp3qKsP1LfdYna4K605Qw8/view
   - Repository: https://github.com/bremus124/TeamGenerator-
